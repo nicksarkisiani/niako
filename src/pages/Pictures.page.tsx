@@ -8,7 +8,7 @@ const PicturesPage = () => {
             <div className={styles.container}>
                 {pictures.map(item => (
                     <div className={styles.picture} key={item.id}>
-                        <img src={item.url} alt="picture"/>
+                        <img src={item.url} alt={item.url}/>
                     </div>
                 ))}
             </div>

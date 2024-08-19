@@ -29,7 +29,7 @@ const Header = () => {
                     <div className={styles.buttons}>
                         <ul className={styles.svgUl}>
                             <li>
-                                <a href="#" className={styles.svg}>
+                                <a href="/" className={styles.svg}>
                                     <svg width="22" height="22" viewBox="0 0 22 22" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">
                                         <path opacity="0.6"
@@ -39,7 +39,7 @@ const Header = () => {
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className={styles.svg}>
+                                <a href="/" className={styles.svg}>
                                     <svg width="24" height="22" viewBox="0 0 24 22" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">
                                         <path opacity="0.6"
@@ -52,7 +52,7 @@ const Header = () => {
                                 </a>
                             </li>
                             <li>
-                                <a href="#" className={styles.svg}>
+                                <a href="/" className={styles.svg}>
                                     <svg width="24" height="26" viewBox="0 0 24 26" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">
                                         <path opacity="0.6"
@@ -67,7 +67,7 @@ const Header = () => {
                     </div>
                     <div className={styles.login}>
                         <button className={styles.buttonLogin}>
-                            <a href="#">შესვლა</a>
+                            <a href="/">შესვლა</a>
                         </button>
                     </div>
                 </div>

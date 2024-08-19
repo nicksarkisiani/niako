@@ -18,7 +18,7 @@ const BeautyPage = () => {
                                             <img src={require('../assets/niako/niakothumb.jpg')} alt=""/>
                                         </div>
                                         <div className={styles.nickname}>
-                                            <a href='https://www.instagram.com/niakobaladze/' target='_blank'>niakobaladze</a>
+                                            <a href='https://www.instagram.com/niakobaladze/' target='_blank' rel='noreferrer'>niakobaladze</a>
                                             <h3 className={styles.follow}>Follow</h3>
                                         </div>
                                     </div>
