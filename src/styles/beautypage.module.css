@@ -1,0 +1,151 @@
+.beautyPage {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.container {
+    width: 1152px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.beauty {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    background-color: #f8f8f8;
+    border-radius: 12px;
+}
+
+.img {
+    width: 40%;
+    height: 100%;
+    background: black;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.commentsPart {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.commentTop {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 8px 14px 16px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.thumb {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+}
+
+.commentIcon {
+    width: 42px;
+    height: 42px;
+}
+
+.nickname {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+}
+
+.nickname h3, .nickname a {
+    line-height: 18px;
+    font-size: 14px;
+}
+
+.nickname a {
+    color: black;
+    font-weight: bold;
+}
+
+.commentIcon img {
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.follow {
+    color: #0095F6;
+}
+
+.comments {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.comment {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 43px;
+    padding: 14px 8px 14px 16px;
+}
+
+.authorthumb {
+    width: 32px;
+    height: 32px;
+}
+
+.authorthumb img {
+    width: 100%;
+    height: 100%;
+}
+
+.commentText {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.commentAuthor {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.commentAuthor h3{
+    font-weight: 500;
+}
+
+.commentAuthor h4 {
+    font-weight: 400;
+}
+
+.commentDetails {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    font-weight: 300;
+}
+
+.commentDetails h5 {
+    font-weight: inherit;
+}

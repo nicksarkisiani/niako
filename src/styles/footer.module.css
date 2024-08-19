@@ -1,0 +1,146 @@
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f6ff;
+
+}
+
+.footer h2, .footer h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1152px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+}
+
+.contactus {
+    display: flex;
+    flex-direction: row;
+    gap: 126px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 77px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    width: 120px;
+}
+
+.column h2 {
+    font-size: 16px;
+    color: black;
+}
+
+.column ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+}
+
+.column a {
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 34px;
+    width: 490px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+}
+
+.form div {
+    display: inline-block;
+    width: 489px;
+    height: 49px;
+    border: 1px solid #8447FF;
+    border-radius: 14px;
+}
+
+.form label {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.form input {
+    height: 47px;
+    padding: 0 0 0 16px;
+    border: none;
+    width: 314px;
+    border-radius: 14px;
+    box-sizing: border-box;
+}
+
+.form button {
+    width: 173px;
+    height: 100%;
+    background-color: #8447FF;
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+    color: white;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.contactInfo {
+    width: 182px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.infoDiv {
+    display: inline-flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.infoDiv div {
+    height: 24px;
+}
+
+.infoDiv span {
+    color: #8447FF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}

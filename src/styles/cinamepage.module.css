@@ -1,0 +1,17 @@
+.cinema {
+    background-color: #f4f4f4;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 86px;
+    padding-bottom: 32px;
+}
+
+.container {
+    width: 1152px;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    height: 946px;
+}

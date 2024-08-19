@@ -1,0 +1,61 @@
+.main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Firago", sans-serif;
+    margin: 100px 0;
+}
+
+.container {
+    width: 1152px;
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.whynia {
+    width: 260px;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 48px;
+}
+
+.whynia h1 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.sitbo {
+    width: 658px;
+}
+
+.sitbo p {
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.whynia span {
+    background: linear-gradient(90deg, #B947FF 0%, #3442D9 100%), #000000;
+    color: transparent;
+    background-clip: text;
+}
+
+.info {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}

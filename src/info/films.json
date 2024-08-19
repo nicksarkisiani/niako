@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "name": "ცისფერი მთები",
+    "img": "https://cavea.plus/static/images/166093185977662.jpg",
+    "text": "„ცისფერი მთები ანუ დაუჯერებელი ამბავი“ — ქართული მხატვრული ფილმი. მისი რეჟისორია ელდარ შენგელაია.",
+    "videos": [
+      {
+        "name": "მე რა შუაში ვარ კაცო?",
+        "link": "https://www.youtube.com/embed/VL8ZsNtz0ws"
+      },
+      {
+        "name": "ეს კაცი არ გამაკაროთ, თორემ შევიშლები. გავიდეს აქედან",
+        "link": "https://www.youtube.com/embed/0KCJ8sdxv3c"
+      },
+      {
+        "name": "რამდენი სხდომა დაგვრჩა ჩასატარებელი?",
+        "link": "https://www.youtube.com/embed/8PBYMpO-KSs"
+      },
+      {
+        "name": "შვებულებაში ვარ, იურიდიულად",
+        "link": "https://www.youtube.com/embed/UmHG2Ag9tjw"
+      },
+      {
+        "name": "არ მომეკარო! წადი!",
+        "link": "https://www.youtube.com/embed/pJWzAzT96zM",
+        "additional": "ნიქსონას გადაეცით"
+      },
+      {
+        "name": "ძალიან კარგი",
+        "link": "https://www.youtube.com/embed/J-uN5RhEb3I"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name": "რაც გინახავს ვეღარ ნახავ",
+    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdNfUiz11wr4Rc5U1BwQMRnTgtsYz-iuA7kjdGHh8xk5DvEhUU7z29aNGH2XRjIDhHX6mjJ7n3ZMnDsdlB1zVweME7DnkYrzP_6iebOw",
+    "text": "რაც გინახავს, ვეღარ ნახავ — 1965 წელს გადაღებული ქართული მხატვრული ფილმი, რომლის რეჟისორია მიხეილ ჭიაურელი.",
+    "videos": [
+      {
+        "name": "მე ვამბობ რო? შენ ამბობ",
+        "link": "https://www.youtube.com/embed/cK43SIKXeUI"
+      },
+      {
+        "name": "გადი რა, ძაღლი ვარ?",
+        "link": "https://www.youtube.com/embed/x2HSgAfQUwI"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Შერეკილები",
+    "img": "https://joey.on.ge/2021/11/25/1637853868.jpg",
+    "text": "„შერეკილები“ — ფანტასტიკური ჟანრის მხატვრული ფილმი, გადაღებული კინოსტუდია „ქართული ფილმის“ მიერ 1973 წელს.",
+    "videos": [
+      {
+        "name": "გევიდა გაღმა...",
+        "link": "https://www.youtube.com/embed/IZXbQ1fZu34"
+      },
+      {
+        "name": "აქედან ვერ ამოშლით ვერაა...",
+        "link": "https://www.youtube.com/embed/f53XFI2i94s"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Modern Family",
+    "img": "https://img.hulu.com/user/v3/artwork/883c414c-34a3-4fcc-b50a-0ad5a184c977?base_image_bucket_name=image_manager&base_image=e4f9fac4-459e-4019-a41f-2f52c4e6f4c6&size=1200x630&format=webp",
+    "text": "Modern Family is an American sitcom television series created by Christopher Lloyd and Steven Levitan for ABC.",
+    "videos": [
+      {
+        "name": "Pick Up Phil",
+        "link": "https://www.youtube.com/embed/mYg0dRxayF0"
+      },
+      {
+        "name": "BEST MOMENTS",
+        "link": "https://www.youtube.com/embed/ElutvIMyn4w"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Office",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjzxMBfb2fo_r5aue6gNR2OHKGwBShWOczw&s",
+    "text": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+    "videos": [
+      {
+        "name": "Identity theft",
+        "link": "https://www.youtube.com/embed/WaaANll8h18"
+      },
+      {
+        "name": "PLEASE NO!!! ",
+        "link": "https://www.youtube.com/embed/umDr0mPuyQc"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jojo",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/JoJo_Part_1_Phantom_Blood.jpg",
+    "text": "Multiple generations of the Joestar family fight powerful and menacing villains in a battle that spans many years and colourful locations around the world.",
+    "videos": [
+      {
+        "name": "DIO",
+        "link": "https://www.youtube.com/embed/thV9hVxt5Zk"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Demon Slayer",
+    "img": "https://poggers.com/cdn/shop/articles/875ae4a49482e4a03f8015eabce194ae_1827x1028_crop_center.webp?v=1708120938",
+    "text": "Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge.",
+    "videos": [
+      {
+        "name": "Inofuke and Nezuko",
+        "link": "https://www.youtube.com/embed/L2gcO5Yaxvs"
+      },
+      {
+        "name": "Inosuke and Kamaboko Gonpachirou",
+        "link": "https://www.youtube.com/embed/rsWe1Li3iqw"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Fairy Tail",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoADK2ZQbIg0gsSCDKl5lo0TuDWXUqPK7DUg&s",
+    "text": "Fairy Tail is a Japanese manga series written and illustrated by Hiro Mashima.",
+    "videos": [
+      {
+        "name": "Funny Moments",
+        "link": "https://www.youtube.com/embed/V8QJjTYqORw"
+      }
+    ]
+  }
+]

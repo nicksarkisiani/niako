@@ -1,0 +1,14 @@
+.container {
+    width: 270px;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h2 {
+    writing-mode: vertical-lr;
+    font-size: 48px;
+}
